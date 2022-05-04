@@ -1,0 +1,14 @@
+{
+  "name": "@perfettiful/create-v17react-app",
+  "repository": {
+    "url": "https://github.com/perfettiful/create-v17react-app.git"
+  },
+  "version": "1.0.0",
+  "description": "CRA with React version 17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Perfetti",
+  "license": "MIT"
+}
